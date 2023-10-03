@@ -23,7 +23,7 @@ def Hello():
 # IMPORTAMOS LOS DATOS
 # data = pd.read_csv("steam.csv", encoding='utf-8')
 # Importar los datos en csv comprimido en gzip
-data = pd.read_csv("./steam1mill.csv.gz", compression="gzip")
+data = pd.read_csv("./steam100k.csv.gz", compression="gzip")
 
 
 # def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
