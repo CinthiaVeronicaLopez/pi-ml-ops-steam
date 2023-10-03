@@ -80,9 +80,10 @@ Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
 Aquí encontrarás información adicional y recursos relacionados de mi proyecto:
 
+![](https://github.com/CinthiaVeronicaLopez/pi-ml-ops-steam/raw/main/video.mp4)
 * `Video explicativo:` Se ha creado un [video explicativo](video.mp4)  donde te muestro algunas funciones de mi proyecto con el uso de la API.
 
-* `Acceso a la API:` En el Siguiente [enlace de la API](https://localhost:80) podras encontrar las funciones de este proyecto.
+* `Acceso a la API:` En el Siguiente [enlace de la API](https://pi-ml-ops-steam.onrender.com/) podras encontrar las funciones de este proyecto.
 
 * `Acceso rápido:`
 - Visualize [EDA](eda.ipynb) notebook.
